@@ -9,3 +9,5 @@ npm install
 
 ### Start development server
 npm start
+
+This will open a browser and a single page application listing stock will start.
